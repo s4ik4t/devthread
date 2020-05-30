@@ -1,0 +1,2 @@
+# devthread
+my weblog

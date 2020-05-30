@@ -1,0 +1,5 @@
+baseURL = "https://s4ik4t.github.io/devthread/"
+languageCode = "en-us"
+title = "DevThread"
+theme = "soho"
+publishDir = "docs"

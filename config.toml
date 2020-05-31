@@ -1,0 +1,35 @@
+baseURL = "https://s4ik4t.github.io/devthread/"
+languageCode = "en-us"
+title = "DevThread"
+theme = "soho"
+publishDir = "docs"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+author = "Saikat Sengupta"
+description = "My Weblog"
+
+gravatar = "shoikawt@gmail.com"
+
+copyright = "Saikat Sengupta"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+  ## Set as many as you want.
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/saikatsengupta/"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "#"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevThread</title>
+    <link>https://s4ik4t.github.io/devthread/posts/</link>
+    <description>Recent content in Posts on DevThread</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 23:08:13 +0530</lastBuildDate>
+    
+	<atom:link href="https://s4ik4t.github.io/devthread/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SDET Roadmap</title>
+      <link>https://s4ik4t.github.io/devthread/posts/sdet-roadmap/</link>
+      <pubDate>Sat, 30 May 2020 23:08:13 +0530</pubDate>
+      
+      <guid>https://s4ik4t.github.io/devthread/posts/sdet-roadmap/</guid>
+      <description>Overview Learning is a continuous process and based on the requirements the learning topics also change time to time. But there are certain key concepts that help all the time. I have tried to jot down below the key skills required for a Software Developer in Test Engineer (focused on Java tooling) and corresponding training materials.
+Disclaimer: This is an opinionated list and does not claim to be 100% complete :)</description>
+    </item>
+    
+  </channel>
+</rss>

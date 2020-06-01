@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "DevThread"
 theme = "soho"
 publishDir = "docs"
-disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 author = "Saikat Sengupta"
@@ -33,3 +32,45 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
   icon = "fa-twitter"
   title = "Twitter"
   url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-youtube"
+  title = "YouTube"
+  url = "#" 
+
+  [[params.socialIcons]]
+  icon = "fa-stack-overflow"
+  title = "StackOverflow"
+  url = "https://stackoverflow.com/users/1594823/"
+
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4  
